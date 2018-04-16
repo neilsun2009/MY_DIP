@@ -1,0 +1,10 @@
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\bin\Debug\dipHW_2.exe.config
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\bin\Debug\dipHW_2.exe
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\bin\Debug\dipHW_2.pdb
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.csprojResolveAssemblyReference.cache
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.Form1.resources
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.Form2.resources
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.Properties.Resources.resources
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.csproj.GenerateResource.Cache
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.exe
+G:\学习\大三上\数字图像处理\作业\hw2\project\dipHW_2\dipHW_2\obj\Debug\dipHW_2.pdb

@@ -1,0 +1,9 @@
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\bin\Debug\dipHW_4_task_3.exe.config
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\bin\Debug\dipHW_4_task_3.exe
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\bin\Debug\dipHW_4_task_3.pdb
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\obj\Debug\dipHW_4_task_3.csprojResolveAssemblyReference.cache
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\obj\Debug\dipHW_4_task_3.Form1.resources
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\obj\Debug\dipHW_4_task_3.Properties.Resources.resources
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\obj\Debug\dipHW_4_task_3.csproj.GenerateResource.Cache
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\obj\Debug\dipHW_4_task_3.exe
+G:\学习\大三上\数字图像处理\作业\hw4\project\dipHW_4_task_3\dipHW_4_task_3\obj\Debug\dipHW_4_task_3.pdb
